@@ -1,4 +1,4 @@
-package com.justin.queue;
+package com.justin.datastructures.linear.queue;
 
 import java.util.Scanner;
 

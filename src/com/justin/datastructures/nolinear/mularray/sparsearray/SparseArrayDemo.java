@@ -1,17 +1,17 @@
-package com.justin.sparse;
+package com.justin.datastructures.nolinear.mularray.sparsearray;
 
 import java.io.*;
 
 /**
  * @program: DataStructures
  * @description: 稀疏数组
- *              用途：
- *              1、五子棋：使用稀疏数组保存二维数组的棋盘，并且保存记忆功能
+ * 用途：
+ * 1、五子棋：使用稀疏数组保存二维数组的棋盘，并且保存记忆功能
  * @author: JustinQin
  * @create: 2021/6/27 15:19
  * @version: v1.0.0
  **/
-public class SparseArray {
+public class SparseArrayDemo {
 
     private static int TWO_ARR_ROW = 22; //二维数组行数
     private static int TWO_ARR_COL = 22; //二维数组列数
